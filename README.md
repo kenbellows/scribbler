@@ -1,4 +1,6 @@
-scribblr
-========
+scribbler
+=========
 
-Node.js based writing app along the same lines as Scrivener
+Node.js and webkit based writing app along the same lines as Scrivener
+
+
