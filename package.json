@@ -1,0 +1,10 @@
+{
+  "name" : "scribbler",
+  "main" : "index.html",
+  "window" : {
+    "frame" : false,
+    "toolbar" : false,
+    "width" : 1024,
+    "height" : 800
+  }
+}
